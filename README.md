@@ -1,11 +1,8 @@
 # GamesDenDiscordBot
 Small discord bot for the Games Den game development club at University of Alberta.
 
-Written by Emily Halina & maintained by Shashank Bhat, with reference to previous bot by Atharv Vohra --> https://github.com/AtharvVohra/BearBot
-
-## CI Status
-
-[![CI](https://github.com/emily-halina/GamesDenDiscordBot/actions/workflows/ci.yml/badge.svg)](https://github.com/emily-halina/GamesDenDiscordBot/actions/workflows/ci.yml)
+- Sourced from https://github.com/emily-halina/GamesDenDiscordBot
+- Written by Emily Halina & maintained by Shashank Bhat, with reference to previous bot by Atharv Vohra --> https://github.com/AtharvVohra/BearBot
 
 ## Includes:
 - join / leave message for users joining and leaving server
